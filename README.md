@@ -1,16 +1,41 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="th">
+<head>
 
-<!--
-**s34856/s34856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<meta charset="UTF-8">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="เว็บไซด์แนะนำตัวทัตธน"
+
+<title>แนะนำตัวทัตธน</title>
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- ส่วนหัวเว็บ -->
+
+<header>
+<h1>สวัสดี ผมชื่อ นายทัตธน พลรัตน์</h1>
+
+<p>ผลงานและความภาคภูมิใจ</p>
+</header>
+
+<!-- ส่วนเกี่ยวกับตัวเอง -->
+<section id="about">
+
+<h2>เกี่ยวกับ</h2>
+<img src="" width="300"> <
+p>สิ่งที่ผมชอบคือการคิดคำนวนโจทย์ทางคณิตและฟิสิกต่างๆ</p>
+</section>
+24 <!-- สวนแสดงข้อมูลส่วนตัว
+25
+26
+<section id="personal information">
+27
+<h2>ข้อมูลส่วนตัว</h2>
+<ul>
+28
+<li>ชื่อจริง: ทัตธน พลรัตน์(/11)
